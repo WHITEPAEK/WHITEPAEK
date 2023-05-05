@@ -27,6 +27,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=platstic&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=platstic&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=platstic&logo=jenkins&logoColor=white)  
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=platstic&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=platstic&logo=jira&logoColor=white)
 ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=platstic&logo=datadog&logoColor=white)  
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=platstic&logo=intellijidea&logoColor=white)
 
