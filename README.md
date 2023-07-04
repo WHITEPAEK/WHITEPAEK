@@ -7,7 +7,7 @@
 
 ### About Me
 * 컴퓨터 공학 석사 학위를 가진 백엔드 개발자입니다.
-* "시스템 설계", "애플리케이션 아키텍처 및 비지니스 프로세스 설계" 그리고 "공통 모듈 개발"에 관심을 가지고 있습니다.
+* "시스템 설계", "애플리케이션 아키텍처 및 비즈니스 프로세스 설계" 그리고 "공통 모듈 개발"에 관심을 가지고 있습니다.
 * 현재 "Java", "Spring Framework", "MySQL", "Microsoft Azure" 등 기술 환경에서 설계/개발/운영 업무를 담당하고 있습니다.
 
 ### Project Experiences
@@ -31,10 +31,5 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=platstic&logo=jira&logoColor=white)
 ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=platstic&logo=datadog&logoColor=white)  
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=platstic&logo=intellijidea&logoColor=white)
-
-### Goals 2023!
-* GitHub Blog 생성 및 운영
-* Trouble Shooting 정리 및 Posts 작성
-* Module 개발 및 Repository 관리
 
 [//]: # (![snake svg]&#40;https://github.com/WHITEPAEK/WHITEPAEK/blob/output/github-contribution-grid-snake.svg&#41;)
