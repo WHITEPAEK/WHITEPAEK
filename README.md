@@ -1,9 +1,9 @@
 ## SeungJoo Paek Welcome to GitHub! 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWHITEPAEK&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div style="width: 100%;">
-    <img src="https://github.com/WHITEPAEK/WHITEPAEK/blob/main/welcome.svg" style="width: 100%;" alt="welcome">
-</div>
+[//]: # (<div style="width: 100%;">)
+[//]: # (    <img src="https://github.com/WHITEPAEK/WHITEPAEK/blob/main/welcome.svg" style="width: 100%;" alt="welcome">)
+[//]: # (</div>)
 
 ### About Me
 * 컴퓨터 공학 석사 학위를 가진 백엔드 개발자입니다.
