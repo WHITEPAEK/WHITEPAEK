@@ -11,6 +11,9 @@
 - 2020.01 - 2021.04 | SKT - Jump
 - 2020.12 - 2021.02 | LG - Quick Help
 
+### Writing
+- 2020.06.30 | IntelliJ IDEA 프로젝트에 활용하기, 비제이퍼블릭
+
 ### Skills and Tools
 ![JAVA](https://img.shields.io/badge/-JAVA-FFFFFF?style=platstic&logo=openjdk&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=platstic&logo=kotlin&logoColor=white)   
