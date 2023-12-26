@@ -1,20 +1,20 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWHITEPAEK&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWHITEPAEK&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### About Me
+### About me,
 - 소프트웨어 엔지니어 겸 사업가입니다.
 - 성균관대학교에서 컴퓨터 공학 석사 학위를 받았습니다.
 - 비즈니스를 설계하고 시스템을 구현하는 것을 좋아합니다.
 
-### Project Experiences
+### Projects,
 - 2022.08 - 2023.12 | SKT - Adot Studio
 - 2021.04 - 2023.12 | SKT - ifland Studio
 - 2020.01 - 2021.04 | SKT - Jump
 - 2020.12 - 2021.02 | LG - Quick Help
 
-### Writing
+### Writing,
 - 2020.06.30 | IntelliJ IDEA 프로젝트에 활용하기, 비제이퍼블릭
 
-### Skills and Tools
+### Skills & Tools,
 ![JAVA](https://img.shields.io/badge/-JAVA-FFFFFF?style=platstic&logo=openjdk&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=platstic&logo=kotlin&logoColor=white)   
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=platstic&logo=spring&logoColor=white)
