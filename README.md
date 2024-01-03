@@ -9,7 +9,7 @@
 - 2022.08 - 2023.12 | SKT Adot Studio
 - 2021.04 - 2023.12 | SKT ifland Studio
 - 2020.01 - 2021.04 | SKT Jump
-- 2020.12 - 2021.02 | &nbsp;&nbsp;LG Quick Help
+- 2020.12 - 2021.02 | LG Quick Help
 
 ### Writing,
 - 2020.06.30 | IntelliJ IDEA 프로젝트에 활용하기, 비제이퍼블릭
