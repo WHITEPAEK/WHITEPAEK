@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWHITEPAEK&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Today](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWHITEPAEK&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### About me,
 - 소프트웨어 엔지니어 겸 사업가입니다.
@@ -6,10 +6,10 @@
 - 비즈니스를 설계하고 시스템을 구현하는 것을 좋아합니다.
 
 ### Projects,
-- 2022.08 - 2023.12 | SKT - Adot Studio
-- 2021.04 - 2023.12 | SKT - ifland Studio
-- 2020.01 - 2021.04 | SKT - Jump
-- 2020.12 - 2021.02 | LG - Quick Help
+- 2022.08 - 2023.12 | SKT Adot Studio
+- 2021.04 - 2023.12 | SKT ifland Studio
+- 2020.01 - 2021.04 | SKT Jump
+- 2020.12 - 2021.02 | &nbsp;&nbsp;LG Quick Help
 
 ### Writing,
 - 2020.06.30 | IntelliJ IDEA 프로젝트에 활용하기, 비제이퍼블릭
