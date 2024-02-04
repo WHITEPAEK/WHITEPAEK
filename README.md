@@ -1,6 +1,6 @@
 [![Today](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWHITEPAEK&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### About me,
+### About,
 - 소프트웨어 엔지니어 겸 사업가입니다.
 - 성균관대학교에서 컴퓨터 공학 석사 학위를 받았습니다.
 - 비즈니스를 설계하고 시스템을 구현하는 것을 좋아합니다.
@@ -20,6 +20,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=platstic&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=platstic&logo=springboot&logoColor=white)     
 ![JPA](https://img.shields.io/badge/-JPA-6DB33F?style=platstic&logoColor=white)
+![Querydsl](https://img.shields.io/badge/-Querydsl-346DB7?style=platstic&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/-MyBatis-493B3D?style=platstic&logoColor=white)   
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=platstic&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=platstic&logo=redis&logoColor=white)  
